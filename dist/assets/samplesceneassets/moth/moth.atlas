@@ -1,0 +1,83 @@
+
+moth.png
+size: 461,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L-antenna
+  rotate: false
+  xy: 319, 9
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+L-eye
+  rotate: true
+  xy: 433, 101
+  size: 29, 26
+  orig: 31, 28
+  offset: 1, 1
+  index: -1
+L-eye-closed
+  rotate: false
+  xy: 436, 9
+  size: 19, 28
+  orig: 21, 30
+  offset: 1, 1
+  index: -1
+L-wing-bottom
+  rotate: false
+  xy: 244, 2
+  size: 73, 67
+  orig: 73, 67
+  offset: 0, 0
+  index: -1
+L-wing-top
+  rotate: false
+  xy: 2, 3
+  size: 119, 127
+  orig: 119, 127
+  offset: 0, 0
+  index: -1
+R-antenna
+  rotate: false
+  xy: 378, 9
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+R-eye
+  rotate: true
+  xy: 433, 70
+  size: 29, 26
+  orig: 31, 28
+  offset: 1, 1
+  index: -1
+R-eye-closed
+  rotate: false
+  xy: 436, 39
+  size: 19, 29
+  orig: 21, 31
+  offset: 1, 1
+  index: -1
+R-wing-bottom
+  rotate: false
+  xy: 359, 64
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+R-wing-top
+  rotate: false
+  xy: 123, 3
+  size: 119, 127
+  orig: 119, 127
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 244, 71
+  size: 113, 59
+  orig: 113, 59
+  offset: 0, 0
+  index: -1

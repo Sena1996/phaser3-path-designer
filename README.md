@@ -2,7 +2,7 @@
 This is a beta project. Used technology Phaser3. Design the path following system. Future scope of these tool we can draw path in phaser3 scene and implement into the phaser, Unity and unreal-Engine.
 
 
-![image](https://github.com/Sena1996/CustomPathDesigner/assets/32616992/36fb35c3-03f4-48e6-a7b9-dc41e307cd7a)# CustomPathDesigner
+![image](https://github.com/Sena1996/phaser3-path-designer/assets/32616992/36fb35c3-03f4-48e6-a7b9-dc41e307cd7a)# CustomPathDesigner
 
 How To Use
 
@@ -71,7 +71,7 @@ With the help of phaser path system and  Tween , JSON file.
 We build an scene as shown in follow pic. Which contain control panel to adjust the speed and loop of the tween.
 
 	- Added spine animated battle, some controller(Duration) save path and move the object along the path.
-![image](https://github.com/Sena1996/CustomPathDesigner/assets/32616992/fe21abe1-09fe-4316-a6b1-cea5818e0d56)
+![image](https://github.com/Sena1996/phaser3-path-designer/assets/32616992/fe21abe1-09fe-4316-a6b1-cea5818e0d56)
 
 
 Working Principle ::
@@ -100,7 +100,7 @@ Finally we solve the problem.
 
 
 Here is an small demo to how use custom design path.
-![image](https://github.com/Sena1996/CustomPathDesigner/assets/32616992/e2d29abf-79db-49f0-a635-a5536cc1cc48)
+![image](https://github.com/Sena1996/phaser3-path-designer/assets/32616992/e2d29abf-79db-49f0-a635-a5536cc1cc48)
 
 
 This is a beta project. Used technology Phaser3. Design the path following system. 
